@@ -1,6 +1,6 @@
 # What Happened in Social Media during the 2020 BLM Movement? An Analysis of Deleted and Suspended Users in Twitter
 
-This repository contains the utilized components and results from the paper [What Happened in Social Media during the 2020 BLM Movement? An Analysis of Deletedand Suspended Users in Twitter](). This study mainly focuses on the user behaviors in Twitter after the emergence of the 2020 BLM Movement.
+This repository contains the utilized components and results from the paper [What Happened in Social Media during the 2020 BLM Movement? An Analysis of Deletedand Suspended Users in Twitter](https://arxiv.org/abs/2110.00070). This study mainly focuses on the user behaviors in Twitter after the emergence of the 2020 BLM Movement.
 
 ## Dataset
 
@@ -18,3 +18,14 @@ The dataset used in this study is composed of two main parts: Users that involvi
 ## Supplementary Material
 
 BLM related keywords, hashtags used in experiments, statistical significance tests and other substantial statistics of the dataset can be found in [`stat_test_and_other_details.7z`](https://github.com/avaapm/BlackLivesMatter/raw/master/stat_test_and_other_details.7z) and [`supplementary_material.pdf`](https://github.com/avaapm/BlackLivesMatter/raw/master/supplementary_material.pdf)
+
+If you make use of this repository, please cite the following paper:
+
+```bibtex
+@article{toraman2021blm,
+      title={What Happened in Social Media during the 2020 BLM Movement? An Analysis of Deleted and Suspended Users in Twitter}, 
+      author={Cagri Toraman and Furkan \c{S}ahinu\c{c} and Eyup Halit Yilmaz},
+      year={2021},
+      eprint={2110.00070},
+}
+```
