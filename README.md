@@ -1,6 +1,6 @@
-# What Happened in Social Media during the 2020 BLM Movement? An Analysis of Deleted and Suspended Users in Twitter
+# BlackLivesMatter 2020: An Analysis of Deleted and Suspended Users in Twitter
 
-This repository contains the utilized components and results from the paper [What Happened in Social Media during the 2020 BLM Movement? An Analysis of Deletedand Suspended Users in Twitter](https://arxiv.org/abs/2110.00070). This study mainly focuses on the user behaviors in Twitter after the emergence of the 2020 BLM Movement.
+This repository contains the utilized components and results from the WebSci '22 paper [BlackLivesMatter 2020: An Analysis of Deleted and Suspended Users in Twitter](https://doi.org/10.1145/3501247.3531539). This study mainly focuses on the user behaviors in Twitter after the emergence of the 2020 BLM Movement.
 
 ## Dataset
 
@@ -22,10 +22,21 @@ BLM related keywords, hashtags used in experiments, statistical significance tes
 If you make use of this repository, please cite the following paper:
 
 ```bibtex
-@article{toraman2021blm,
-      title={What Happened in Social Media during the 2020 BLM Movement? An Analysis of Deleted and Suspended Users in Twitter}, 
-      author={Cagri Toraman and Furkan \c{S}ahinu\c{c} and Eyup Halit Yilmaz},
-      year={2021},
-      eprint={2110.00070},
+@inproceedings{toraman2022blm,
+author = {Toraman, Cagri and \c{S}ahinu\c{c}, Furkan and Yilmaz, Eyup Halit},
+title = {BlackLivesMatter 2020: An Analysis of Deleted and Suspended Users in Twitter},
+year = {2022},
+isbn = {9781450391917},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3501247.3531539},
+doi = {10.1145/3501247.3531539},
+booktitle = {14th ACM Web Science Conference 2022},
+pages = {290–295},
+numpages = {6},
+keywords = {tweet, BlackLivesMatter, deleted user, suspended user},
+location = {Barcelona, Spain},
+series = {WebSci '22}
 }
+
 ```
